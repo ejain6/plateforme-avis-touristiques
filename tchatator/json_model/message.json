@@ -1,0 +1,18 @@
+{
+  "utilisateur" : {
+    "emetteur" : "",
+    "destinataire" : "",
+    "sens" : ""
+  },
+  "data" : {
+    "identifiant" : 0,
+    "horodatage" : "",
+    "horodatage_modif" : "",
+    "supprimé" : false
+  },
+  "message" : {
+    "contenue" : "",
+    "taille_message" : 0
+  },
+  "statut" : "200/OK"
+}
